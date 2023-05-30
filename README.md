@@ -42,3 +42,4 @@
   </body>
 </html>
 https://github.com/TAAFAQ/project-37/blob/main/My-Quiz-temp-main/p5.play.js
+https://github.com/TAAFAQ/project-37/blob/main/My-Quiz-temp-main/sketch.js
